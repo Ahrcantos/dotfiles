@@ -31,6 +31,9 @@ Plug 'justinmk/vim-syntax-extra'
 "Plug 'xavierd/clang_complete'
 Plug 'myint/clang-complete'
 
+"Better Textobjects
+Plug 'wellle/targets.vim'
+
 
 
 call plug#end()
