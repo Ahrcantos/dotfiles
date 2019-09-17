@@ -104,9 +104,6 @@ inoremap {;<CR> {<CR>};<ESC>O
 "Spell Checker"
 map <F6> :setlocal spell! spelllang=de_de<CR>
 
-"Odoo Templates
-source ~/.vim/plugged/odoo-templates/odoo-templates.vim
-
 "Emu File Type
 au BufRead,BufNewFile *.emu set filetype=emu
 
